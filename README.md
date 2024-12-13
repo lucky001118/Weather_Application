@@ -145,11 +145,6 @@ Contributions are welcome! To contribute:
 
 ---
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
 ## Acknowledgments
 - Thanks to the Weather API providers for real-time weather data.
 - Inspired by the need for simple and user-friendly weather applications.
@@ -158,4 +153,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 For any queries or suggestions, please contact:
-- **GitHub**: [Your GitHub Profile](https://github.com/<your-username>)
+- **Email**: [manikpurilucky218@gmail.com](manikpurilucky218@gmail.com)
