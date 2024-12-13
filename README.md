@@ -45,7 +45,7 @@ This project demonstrates the use of Spring Boot for web application development
 ## Installation and Usage
 
 ### Prerequisites:
-- Java Development Kit (JDK) 8 or higher.
+- Java Development Kit (JDK) 17 or higher.
 - Maven installed on your system.
 - Access to the Weather API (API key required).
 
